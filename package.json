@@ -1,0 +1,29 @@
+{
+  "name": "lbl-service",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twltwl/lbl-service.git"
+  },
+  "keywords": [
+    "lbl"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twltwl/lbl-service/issues"
+  },
+  "homepage": "https://github.com/twltwl/lbl-service#readme",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "mongoose": "^5.0.0",
+    "morgan": "^1.9.0"
+  }
+}
